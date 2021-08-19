@@ -1,0 +1,2 @@
+#!/bib/bash
+cp -n *.html ..
